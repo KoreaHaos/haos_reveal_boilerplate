@@ -1,1 +1,2 @@
-# haos_reveal_boilerplate
+# Haos Reveal : Boilerplate
+
